@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href = "style3.css"?>
+
+<storefront>
+
+    <product>
+        <top>
+            <name>
+                Midcentury Chair
+            </name>
+            <size>
+                1.5x2.5 ft
+            </size>
+            <price>
+                $49.99
+            </price>
+        </top>
+        <bottom>
+            <description>
+                An elegant midcentury modern chair.
+            </description>
+            <categories>
+                <cat1>
+                    Chairs
+                </cat1>
+            </categories>
+        </bottom>
+    </product>
+
+    <product>
+        <top>
+            <name>
+                Leather Couch
+            </name>
+            <size>
+                8x4ft
+            </size>
+            <price>
+                $279.98
+            </price>
+        </top>
+        <bottom>
+            <description>
+                A comfortable black leather couch.
+            </description>
+            <categories>
+                <cat1>
+                    Sofas
+                </cat1>
+                <cat2>
+                    Leather
+                </cat2>
+            </categories>
+        </bottom>
+    </product>
+
+    <product>
+        <top>
+            <name>
+                Antique Rocking Chair
+            </name>
+            <size>
+                2x2 ft
+            </size>
+            <price>
+                $69.49
+            </price>
+        </top>
+        <bottom>
+            <description>
+                A simple wooden rocking chair.
+            </description>
+            <categories>
+                <cat1>
+                    Chairs
+                </cat1>
+                <cat2>
+                    Antique
+                </cat2>
+            </categories>
+        </bottom>
+    </product>
+
+    <product>
+        <top>
+            <name>
+                Modern Wardrobe
+            </name>
+            <size>
+                4x3x6 ft
+            </size>
+            <price>
+                $219.99
+            </price>
+        </top>
+        <bottom>
+            <description>
+                A clean white wardrobe with a mirror.
+            </description>
+            <categories>
+                <cat1>
+                    Wardrobes
+                </cat1>
+                <cat2>
+                    Storage
+                </cat2>
+            </categories>
+        </bottom>
+    </product>
+
+    <product>
+        <top>
+            <name>
+                Suede Sofa
+            </name>
+            <size>
+                7x4 ft
+            </size>
+            <price>
+                $329.49
+            </price>
+        </top>
+        <bottom>
+            <description>
+                A gorgeous suede sofa with storage space underneath.
+            </description>
+            <categories>
+                <cat1>
+                    Sofas
+                </cat1>
+                <cat2>
+                    Suede
+                </cat2>
+                <cat3>
+                    Storage
+                </cat3>
+            </categories>
+        </bottom>
+    </product>
+
+    <product>
+        <top>
+            <name>
+                Glass Top Coffee Table
+            </name>
+            <size>
+                3.5x2 ft
+            </size>
+            <price>
+                $99.99
+            </price>
+        </top>
+        <bottom>
+            <description>
+                A wooden coffee table with a glass top.
+            </description>
+            <categories>
+                <cat1>
+                    Tables
+                </cat1>
+                <cat2>
+                    Glass
+                </cat2>
+            </categories>
+        </bottom>
+    </product>
+
+    <product>
+        <top>
+            <name>
+                Antique Wardrobe
+            </name>
+            <size>
+                4.5x3x5.5 ft
+            </size>
+            <price>
+                $575.99
+            </price>
+        </top>
+        <bottom>
+            <description>
+                An ornate vintage wardrobe, with drawers and hanging space.
+            </description>
+            <categories>
+                <cat1>
+                    Wardrobes
+                </cat1>
+                <cat2>
+                    Antique
+                </cat2>
+            </categories>
+        </bottom>
+    </product>
+
+    <product>
+        <top>
+            <name>
+                Black End Table
+            </name>
+            <size>
+                1.5x1.5 ft
+            </size>
+            <price>
+                $39.99
+            </price>
+        </top>
+        <bottom>
+            <description>
+                A small round endtable.
+            </description>
+            <categories>
+                <cat1>
+                    Tables
+                </cat1>
+            </categories>
+        </bottom>
+    </product>
+</storefront>

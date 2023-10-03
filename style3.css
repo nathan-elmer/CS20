@@ -1,0 +1,50 @@
+product 
+{
+    display:block;
+    padding: 20px;
+}
+
+
+top 
+{
+    display:block;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+bottom
+{
+    display:block;
+    font-size: 18px;
+}
+
+categories::before {
+    content: "In: "
+}
+
+categories
+{
+    display:block;
+    font-size: 14px;
+    color:#667;
+}
+
+cat1 
+{
+    display:inline-block;
+}
+
+cat2::before , cat3::before
+{
+    content:", "
+}
+
+size::before 
+{
+    content: "("
+}
+
+price::before 
+{
+    content: ") – "
+}
